@@ -1,0 +1,122 @@
+[
+    {
+      "pregunta_usuario": "¿Cuántos días de vacaciones debo tomar mínimo al año?",
+      "respuesta_sistema": "En TechFlow no existe un límite máximo de vacaciones, pero es obligatorio tomar al menos 15 días hábiles al año para evitar el agotamiento.",
+      "fragmentos_relacionados": [
+        "Vacaciones Flexibles (Unlimited PTO)... obligatorio tomar un mínimo de 15 días hábiles...",
+        "La política de tiempo libre busca fomentar el equilibrio entre vida personal y laboral."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿Cómo solicito vacaciones en el sistema?",
+      "respuesta_sistema": "Debes registrar tu solicitud en el módulo 'TimeOff' de la plataforma, y tu líder directo deberá aprobarla antes de ser confirmada.",
+      "fragmentos_relacionados": [
+        "Todas las ausencias deben registrarse en el módulo TimeOff...",
+        "El sistema requiere aprobación del líder directo..."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿Cuándo se paga la nómina?",
+      "respuesta_sistema": "La nómina en TechFlow se paga de forma quincenal, el día 15 y el último día de cada mes.",
+      "fragmentos_relacionados": [
+        "Frecuencia de pago: nómina quincenal...",
+        "Los pagos se procesan el día 15 y fin de mes..."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿Qué hago si mi pago está incorrecto?",
+      "respuesta_sistema": "Debes reportar el error en el módulo 'Payroll Support' dentro de las primeras 48 horas. El equipo resolverá el problema en un máximo de 3 días hábiles.",
+      "fragmentos_relacionados": [
+        "Errores de nómina deben reportarse en 48 horas...",
+        "El SLA de resolución es de 3 días hábiles..."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿Qué incluye mi recibo de nómina?",
+      "respuesta_sistema": "Incluye salario base, bonos, deducciones fiscales, aportaciones de seguridad social y otras percepciones adicionales.",
+      "fragmentos_relacionados": [
+        "Desglose de nómina incluye salario base y deducciones...",
+        "El recibo contiene percepciones y contribuciones..."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿Cómo descargo mi comprobante fiscal?",
+      "respuesta_sistema": "Puedes descargar tu comprobante fiscal directamente desde el portal de empleados dentro del módulo de nómina.",
+      "fragmentos_relacionados": [
+        "Los empleados pueden descargar sus comprobantes fiscales...",
+        "CFDI disponible en el portal del sistema..."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿Qué tipos de incidencias afectan la nómina?",
+      "respuesta_sistema": "Las incidencias incluyen faltas injustificadas, incapacidades médicas, permisos sin goce de sueldo y horas extra autorizadas.",
+      "fragmentos_relacionados": [
+        "Tipos de incidencias: faltas, incapacidades, permisos...",
+        "Las incidencias impactan percepciones y deducciones..."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿Quién debe aprobar mis incidencias?",
+      "respuesta_sistema": "Las incidencias deben ser aprobadas por tu líder directo antes de procesarse en la nómina.",
+      "fragmentos_relacionados": [
+        "El líder directo valida incidencias...",
+        "Se requiere aprobación antes del cierre de nómina..."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿TechFlow cubre seguro médico para mi familia?",
+      "respuesta_sistema": "Sí, la empresa cubre el 100% del empleado y subsidia el 60% del costo para dependientes directos.",
+      "fragmentos_relacionados": [
+        "Seguro médico cubre al empleado al 100%...",
+        "Dependientes reciben subsidio del 60%..."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿Cuántas semanas de licencia por maternidad o paternidad hay?",
+      "respuesta_sistema": "TechFlow ofrece 16 semanas de licencia totalmente pagadas, sin importar el género.",
+      "fragmentos_relacionados": [
+        "Licencia de 16 semanas por nacimiento o adopción...",
+        "Beneficio aplica independientemente del género..."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿Es obligatorio usar VPN para trabajar?",
+      "respuesta_sistema": "Sí, es obligatorio utilizar la VPN corporativa para acceder a entornos sensibles como staging o producción.",
+      "fragmentos_relacionados": [
+        "Uso obligatorio de VPN corporativa...",
+        "Prohibido acceder a producción sin protección..."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿Puedo usar WiFi público para acceder a sistemas?",
+      "respuesta_sistema": "No, está prohibido acceder a sistemas sensibles desde redes públicas sin protección adicional como hardware de seguridad.",
+      "fragmentos_relacionados": [
+        "Prohibido usar WiFi público sin protección...",
+        "Requiere uso de YubiKey u otras medidas..."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿Cómo funciona el onboarding en TechFlow?",
+      "respuesta_sistema": "El onboarding se realiza a través del programa Launchpad, donde durante 15 días el empleado aprende sin tareas críticas y cuenta con un buddy asignado.",
+      "fragmentos_relacionados": [
+        "Programa Launchpad dura 15 días...",
+        "Se asigna un buddy al nuevo empleado..."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿Cuánto dura el periodo de prueba?",
+      "respuesta_sistema": "El periodo de prueba en TechFlow tiene una duración de 90 días con revisiones a los 30 y 60 días.",
+      "fragmentos_relacionados": [
+        "Periodo de prueba de 90 días...",
+        "Evaluaciones intermedias a los 30 y 60 días..."
+      ]
+    },
+    {
+      "pregunta_usuario": "¿Cómo se calcula el bono anual?",
+      "respuesta_sistema": "Se calcula con base en OKRs individuales (50%), desempeño del equipo (20%) y crecimiento del ARR de la empresa (30%).",
+      "fragmentos_relacionados": [
+        "Fórmula de bono incluye OKRs, equipo y ARR...",
+        "Distribución porcentual 50-20-30..."
+      ]
+    }
+  ]

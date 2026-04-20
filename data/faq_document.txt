@@ -1,0 +1,161 @@
+# TechFlow HR - Manual de Políticas y FAQs 2026
+
+## INTRODUCCIÓN Y CULTURA ORGANIZACIONAL
+Bienvenido a TechFlow HR. Este documento sirve como la fuente única de verdad para todos los procedimientos internos, beneficios y lineamientos de conducta. Nuestra misión es automatizar la gestión de talento humano mediante inteligencia artificial, y nuestra cultura se basa en la transparencia radical, la autonomía técnica y el bienestar integral del colaborador.
+
+---
+
+## 1. MODELO DE TRABAJO "DYNAMIC-FLOW"
+TechFlow adopta un modelo Remote-First con flexibilidad geográfica.
+
+- Disponibilidad obligatoria: 10:00 AM a 2:00 PM (EST)
+- Hubs en CDMX, Madrid y San Francisco
+- Estipendio de coworking: 40 USD mensuales
+- Equipo inicial: MacBook Pro + bono de 500 USD
+
+---
+
+## 2. VACACIONES Y PTO
+- Vacaciones ilimitadas (mínimo obligatorio: 15 días al año)
+- Solicitudes en módulo "TimeOff"
+- Aviso previo: 15 días para ausencias largas
+- Días de wellness: 1 por trimestre
+
+---
+
+## 3. BENEFICIOS DE SALUD
+- Seguro médico: 100% empleado / 60% dependientes
+- Terapia psicológica en plataforma "InnerPeace"
+- Acceso a gimnasios con FitPass
+- Licencia parental: 16 semanas
+
+---
+
+## 4. DESARROLLO PROFESIONAL
+- Presupuesto anual: 1,200 USD
+- Cursos, certificaciones y libros permitidos
+- Conferencias cubiertas si eres speaker
+- Idiomas: 80% subsidiado
+
+---
+
+## 5. REEMBOLSO DE GASTOS
+- Gastos válidos: viajes, hardware menor, comidas de negocio
+- Subir recibos antes del día 25
+- Facturación a TechFlow Global Services S.A.
+- Viáticos: 70 USD diarios
+
+---
+
+## 6. CÓDIGO DE CONDUCTA
+- Tolerancia cero a acoso o discriminación
+- Línea ética anónima
+- Investigación en máximo 5 días
+- Grupos ERG activos
+
+---
+
+## 7. SEGURIDAD E INFORMACIÓN
+- Uso obligatorio de VPN
+- Prohibido WiFi público sin protección
+- Uso de 1Password
+- 2FA obligatorio
+
+---
+
+## 8. USO DE IA
+- Permitido uso de IA generativa
+- Prohibido subir datos sensibles o PII
+- Uso de entornos Enterprise
+
+---
+
+## 9. EVALUACIÓN DE DESEMPEÑO
+- Evaluaciones semestrales
+- Feedback 360°
+- Bono basado en OKRs, equipo y ARR
+
+---
+
+## 10. ONBOARDING Y OFFBOARDING
+- Programa Launchpad (15 días)
+- Buddy asignado
+- Periodo de prueba: 90 días
+- Entrevista de salida obligatoria
+
+---
+
+## 11. NÓMINA
+- Pago quincenal (15 y fin de mes)
+- Métodos: transferencia, Wise, Deel
+- Moneda local o USD/EUR
+- SLA errores: 3 días hábiles
+
+---
+
+## 12. IMPUESTOS
+- Retenciones automáticas
+- Descarga de CFDI en portal
+- Responsabilidad del empleado actualizar datos
+
+---
+
+## 13. BONOS E INCENTIVOS
+- Bonos por desempeño
+- Comisiones mensuales
+- Stock options con vesting 4 años
+
+---
+
+## 14. INCIDENCIAS DE NÓMINA
+- Faltas, incapacidades, permisos
+- Registro antes del cierre
+- Aprobación del líder
+- Impacto directo en pago
+
+---
+
+## 15. CONTROL DE TIEMPO
+- No checador tradicional
+- Medición por entregables
+- Horas extra solo autorizadas
+
+---
+
+## 16. TERMINACIÓN LABORAL
+- Finiquito incluye proporcionales
+- Pago en 10 días hábiles
+- Acceso a documentos por 30 días
+
+---
+
+## 17. SOPORTE AL CLIENTE
+- Validar identidad
+- Revisar logs
+- Escalar si aplica
+- Prioridades: alta, media, baja
+
+---
+
+## 18. SLA
+- Alta: 4 horas
+- Media: 24 horas
+- Baja: 72 horas
+
+---
+
+## 19. ROLES Y ACCESOS
+- Admin, HR Manager, Employee
+- Control RBAC
+- Auditoría de acciones
+
+---
+
+## 20. SEGURIDAD EN NÓMINA
+- Datos cifrados
+- Auditorías trimestrales
+- Detección de fraude automática
+
+---
+
+
