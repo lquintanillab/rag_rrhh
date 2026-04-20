@@ -1,6 +1,6 @@
 # Chatbot de soporte FAQ con RAG (Recuperación aumentada por generación)
 
-**Repositorio:** sustituye esta línea por el enlace público a tu fork o repositorio en Git (por ejemplo `https://github.com/tu-usuario/rag_rrhh`).
+**Repositorio:** https://github.com/lquintanillab/rag_rrhh.git
 
 ## Contexto y propósito
 
@@ -32,7 +32,7 @@ Sigue al menos estos pasos para un entorno reproducible:
 
 1. **Clonar el repositorio** y entrar en la carpeta del proyecto:
    ```bash
-   git clone <URL_DE_TU_REPO>
+   git clone https://github.com/lquintanillab/rag_rrhh.git
    cd rag_rrhh
    ```
 
